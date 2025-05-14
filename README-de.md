@@ -11,11 +11,13 @@ Jahrgang 1993
 
 ## 🔧 Profil
 
-Ursprünglich aus der Softwareentwicklung kommend, habe ich über den Bereich Enterprise Content Management den Weg in die Cloud-Infrastruktur gefunden. Heute liegt mein Fokus auf Architektur, Aufbau, Migration und Betrieb von Applikationen und Plattformen in privaten und öffentlichen Cloud-Umgebungen.
+Meine Laufbahn begann mit einer Ausbildung zum Fachinformatiker für Anwendungsentwicklung bei der fme AG, wo ich über viele Jahre hinweg verschiedene Rollen durchlaufen habe – vom Entwickler über ECM-Spezialisten bis hin zum heutigen Senior Consultant und technischen Leiter im Cloud-Umfeld.
 
-Meine Stärken liegen insbesondere in Kubernetes, CI/CD-Automatisierung (DevOps), Infrastructure-as-Code (GitOps) und cloud-nativer Sicherheit (GitSecOps).
+Über den Einstieg in die Softwareentwicklung und das Enterprise Content Management (ECM) habe ich mich zunehmend auf Cloud-Technologien spezialisiert. Heute liegt mein Fokus auf Architektur, Aufbau, Migration und Betrieb von Anwendungen und Plattformen in privaten wie öffentlichen Cloud-Umgebungen.
 
-Ich verfüge über umfangreiche Projekterfahrung in stark regulierten Branchen wie dem öffentlichen Sektor, der Automobilindustrie, der Finanzwelt und der Pharmaindustrie.
+Meine Schwerpunkte umfassen Kubernetes, CI/CD-Automatisierung (DevOps), Infrastructure-as-Code (GitOps) und cloud-native Sicherheit (GitSecOps).
+
+Ich verfüge über umfangreiche Projekterfahrung in stark regulierten Branchen wie dem öffentlichen Sektor, der Automobilindustrie, Finanzdienstleistungen und der Pharmaindustrie.
 
 
 ---

@@ -10,13 +10,13 @@ Born in 1993
 
 ## 🔧 Profile
 
-Senior Cloud and DevOps specialist with 13 years of experience in the IT industry.
+I started my professional journey with an apprenticeship as an application developer at fme AG, where I gradually advanced through various roles — from software developer and ECM specialist to today's position as a senior consultant and technical lead in cloud infrastructure.
 
-Originally trained as a software developer, I transitioned into Enterprise Content Management and later into cloud infrastructure. Today, I focus on architecture, deployment, migration, and operations of applications and platforms in private and public clouds.
+After my initial focus on software development and enterprise content management, I transitioned into the cloud domain. Today, I focus on the architecture, deployment, migration, and operations of applications and platforms in both private and public cloud environments.
 
-My strengths lie in Kubernetes, CI/CD automation (DevOps), infrastructure-as-code (GitOps), and cloud-native security (GitSecOps).
+My core strengths include Kubernetes, CI/CD automation (DevOps), infrastructure as code (GitOps), and cloud-native security (GitSecOps).
 
-Project experience in highly regulated industries such as public sector, automotive, finance, and pharmaceuticals.
+I have extensive project experience in highly regulated industries such as the public sector, automotive, finance, and pharmaceuticals.
 
 ---
 
